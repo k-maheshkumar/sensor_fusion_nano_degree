@@ -1,3 +1,12 @@
 [submodule "projects/lidar_obstacle_detection"]
 	path = projects/lidar_obstacle_detection
 	url = git@github.com:k-maheshkumar/udacity_sensor_fusion_lidar_obstacle_detection.git
+[submodule "projects/camera"]
+	path = projects/camera
+	url = git@github.com:k-maheshkumar/udacity_sensor_fusion_camera.git
+[submodule "projects/ttc_lidar"]
+	path = projects/ttc_lidar
+	url = git@github.com:k-maheshkumar/udacity_sensor_fusion_ttc_lidar.git
+[submodule "projects/ttc_camera"]
+	path = projects/ttc_camera
+	url = git@github.com:k-maheshkumar/udacity_sensor_fusion_ttc_camera.git
